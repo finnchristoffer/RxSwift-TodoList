@@ -8,6 +8,7 @@ PODS:
 
 DEPENDENCIES:
   - RxCocoa (~> 6.5.0)
+  - RxRelay (~> 6.5.0)
   - RxSwift (~> 6.5.0)
 
 SPEC REPOS:
@@ -21,6 +22,6 @@ SPEC CHECKSUMS:
   RxRelay: 1de1523e604c72b6c68feadedd1af3b1b4d0ecbd
   RxSwift: 5710a9e6b17f3c3d6e40d6e559b9fa1e813b2ef8
 
-PODFILE CHECKSUM: 0c50706cc8250b6fdad9fe07b414864a327795c0
+PODFILE CHECKSUM: 45c134b07ba156b8509b76bc96b5eb09aca1ef68
 
 COCOAPODS: 1.11.3
